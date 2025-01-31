@@ -1,0 +1,8 @@
+[default]
+account = "VBHCXJC-VH75789"
+user = "qrioustraining"
+password = "SNOW@123snow"
+role = "ACCOUNTADMIN"
+warehouse = "COMPUTE_WH"
+database = "SNOWFLAKE_SAMPLE_DATA"
+schema = "TPCH_SF10"
